@@ -17,7 +17,7 @@ Dit algoritme volgt 3 hoofd regels:
 
 Dit algoritme heb ik in labview gemaakt.
 
-Het labview programma gaat als server werken en het embedded systeem gaat hier via TCP/IP data van halen en weergeven op zijn LCD.
+Het labview programma gaat als server werken en het embedded systeem (STM32F746GD) gaat hier via TCP/IP data van halen en weergeven op zijn LCD.
 De client kan ook zelf dingen naar de server sturen.
 	- via knoppen kunnen een aantal vaste patronen verstuurd worden
 	- via de "eigen "knop" kan men iets in de server applicatie tekenen of als text string ingeven. 
