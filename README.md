@@ -7,6 +7,8 @@
 == Korte beschrijving ==
 Conway's game of life soms wel life genoemd is een cellulaire automaat.
 
+ter info: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
+
 Deze bevind zich in een 2 dimensionaal raster met vierkante "cellen" die levend of dood kunnen zijn
 en die zich volgens vastgelegde regels ontwikkelen en daarbij patronen kunnen vormen.
 
